@@ -19,3 +19,16 @@ body{
 .navbar{
     background-color: red;
 }
+
+
+@media(min-width:768px){
+    .pink{
+        font-size: 1.2em;
+    }
+}
+
+@media(min-width:992px){
+    .pink{
+        font-size: 1.2em;
+    }
+}
