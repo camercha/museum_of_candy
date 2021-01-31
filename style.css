@@ -55,3 +55,33 @@ body{
 }
 
 
+@media(min-width:1200px){
+    .pink{
+        font-size: 1.6em;
+    }
+
+    .cat{
+        font-size: 3em;
+    }
+}
+
+
+
+@media(min-width:1400px){
+    .pink{
+        font-size: 2em;
+    }
+
+    .cat{
+        font-size: 4em;
+    }
+}
+
+
+@media(min-width:1700px){
+    .cat{
+        font-size: 5.2em;
+    }
+}
+
+
